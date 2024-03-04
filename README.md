@@ -1,2 +1,2 @@
 # FabricAIHackathonSubmission
-Project for Fabric AI Hackathon using Co Pilot
+For Details Related to Project please refer to Fabric AI Hackathon Project.docx
